@@ -1,8 +1,16 @@
 # Hi, I'm Assem Alhelou 👋
 
-MSc Applications of Artificial Intelligence – University of Essex ( Dec 2025)  
-**Thesis:** Byzantine-robust federated learning for IIoT intrusion detection (autoencoders on Raspberry Pi edge clusters)
-BSc Computer Science - American University of Beirut (Jun 2021)
+**MSc Applications of Artificial Intelligence**  
+University of Essex (Dec 2025)  
+
+**Thesis:** Byzantine-robust federated learning for IIoT intrusion detection  
+- Autoencoders deployed on Raspberry Pi edge clusters  
+- Defenses against Byzantine attacks and concept drift  
+- Outperformed Logistic Regression and Random Forest baselines  
+
+**BSc Computer Science**  
+American University of Beirut (Jun 2021)  
+- Exchange semester: American University, Washington DC
 
 ### Experience
 - Full-Stack Developer @ Valnet (2021–2024) – PHP/JS/SQL for high-traffic sites
