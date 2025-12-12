@@ -1,14 +1,13 @@
-# Hi, I'm Assem AlHelou 👋
+# Hi, I'm Assem Alhelou 👋
 
-MSc Applications of Artificial Intelligence – University of Essex (Expected Dec 2025)  
+MSc Applications of Artificial Intelligence – University of Essex ( Dec 2025)  
 **Thesis:** Byzantine-robust federated learning for IIoT intrusion detection (autoencoders on Raspberry Pi edge clusters)
+BSc Computer Science - American University of Beirut (Jun 2021)
 
 ### Experience
 - Full-Stack Developer @ Valnet (2021–2024) – PHP/JS/SQL for high-traffic sites
 - Machine Learning Intern @ ZAKA AI – Video analytics pipelines with NVIDIA TLT
 
-### Current Focus
-Privacy-preserving ML • Edge AI • Federated Learning • MLOps
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,12 +20,9 @@ Privacy-preserving ML • Edge AI • Federated Learning • MLOps
 
 ### Key Projects
 - [FL-IDS-Surveillance](https://github.com/aztecx/FL-IDS-Surveillance) – Federated IDS with Byzantine defenses (thesis core)
-- [credit-risk-tree-models](https://github.com/aztecx/credit-risk-tree-models) – Ensemble models for credit risk prediction
-- [customer-churn-logistic-regression](https://github.com/aztecx/customer-churn-logistic-regression) – Telecom churn prediction
-- [uk-rental-price-prediction-linear-regression](https://github.com/aztecx/uk-rental-price-prediction-linear-regression) – UK housing price modeling
+- [news-tldr-toolkit](https://github.com/aztecx/news-tldr-toolkit) - Toolkit to generate TL;DR summaries of news articles and text files using a local summarisation model.
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/assem-al-helou)  
-Colchester, UK • Graduate visa until 2027 • Preparing AWS Cloud Practitioner
 
 Open to junior AI/ML Engineer & Software Engineer roles!
