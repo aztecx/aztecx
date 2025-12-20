@@ -29,6 +29,8 @@ American University of Beirut (Jun 2021)
 ### Key Projects
 - [FL-IDS-Surveillance](https://github.com/aztecx/FL-IDS-Surveillance) – Federated IDS with Byzantine defenses (thesis core)
 - [news-tldr-toolkit](https://github.com/aztecx/news-tldr-toolkit) - Toolkit to generate TL;DR summaries of news articles and text files using a local summarisation model.
+- [ai-resume-screener](https://github.com/aztecx/ai-resume-screener) – AI resume screener for tech roles: compares a resume and job description using skill overlap and a semantic similarity model (CLI + Streamlit UI, all local).
+
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/assem-al-helou)  
